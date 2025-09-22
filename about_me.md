@@ -11,3 +11,6 @@ Prior to my PhD, I worked on numerical simulations of centrifugal atomization to
 - Turbulent characteristics, time scales, and correlation in a combined wave-current flow
 - [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
 
+## Awards
+- **2022 KLA Scholarship for Excellence, KLA Inc.
+- **2021 [Excellence Scholarship Award](https://engineering.tau.ac.il/Engineering-Faculty-Awarding-Excellence-Scholarships-Graduate-Degree-2021), Faculty of Engineering, Tel Aviv University
