@@ -14,3 +14,6 @@ Prior to my PhD, I worked on numerical simulations of centrifugal atomization to
 ## Awards
 - **2022 KLA Scholarship for Excellence, KLA Inc.
 - **2021 [Excellence Scholarship Award](https://engineering.tau.ac.il/Engineering-Faculty-Awarding-Excellence-Scholarships-Graduate-Degree-2021), Faculty of Engineering, Tel Aviv University
+- **2019 University Rover Challenge, World Rank: 11th
+- **2017 University Rover Challenge, World Rank: 20th
+- **2016 University Rover Challenge, World Rank: 9th
