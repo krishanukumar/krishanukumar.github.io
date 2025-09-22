@@ -6,7 +6,7 @@ I earned my PhD in Mechanical Engineering from **Tel Aviv University**, where I 
 
 Prior to my PhD, I worked on numerical simulations of centrifugal atomization to estimate powder size distribution, incorporating phase change into the model. The numerical results were validated against experiments conducted using high-speed imaging. This work was carried out under the supervision of [Prof. Sabita Sarkar](https://sites.google.com/smail.iitm.ac.in/sabita) at **IIT Madras**.
 
-### Projects
+## Projects
 - [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
 - Turbulent characteristics, time scales, and correlation in a combined wave-current flow
 - [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
