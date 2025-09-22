@@ -9,5 +9,5 @@ Prior to my PhD, I worked on numerical simulations of centrifugal atomization to
 ### Projects
 - [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
 - Turbulent characteristics, time scales, and correlation in a combined wave-current flow
-- [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
+- [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
 
