@@ -1,3 +1,8 @@
+---
+title: About me
+---
+
+
 ## About me
 
 I am a Postdoctoral Research Fellow in the **Department of Mechanical Engineering at the University of Michigan**, working in the [Erinin Research Group](https://erinin.engin.umich.edu/). My research focuses on wave breaking dynamics, droplet formation, and sea spray generation.
