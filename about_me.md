@@ -6,12 +6,14 @@ I earned my PhD in **Mechanical Engineering from Tel Aviv University**, where I 
 
 Prior to my PhD, I worked on numerical simulations of centrifugal atomization to estimate powder size distribution, incorporating phase change into the model. The numerical results were validated against experiments conducted using high-speed imaging. This work was carried out under the supervision of [Prof. Sabita Sarkar](https://sites.google.com/smail.iitm.ac.in/sabita) at the **Department of Metallurgy and Materials Engineering, IIT Madras**.
 
+---
 ## Projects
 - [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
 - Turbulent characteristics, time scales, and correlation in a combined wave-current flow
 - [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
 - Numerical analysis of variation of groove depth on hydrothermal characteristics of the circular microchannel with rectangular and circular grooves
 
+---
 ## Awards
 - **2022 KLA Scholarship for Excellence**, KLA Inc.
 - **2021 [Excellence Scholarship Award](https://engineering.tau.ac.il/Engineering-Faculty-Awarding-Excellence-Scholarships-Graduate-Degree-2021)**, Faculty of Engineering, Tel Aviv University
