@@ -8,6 +8,8 @@ I am a Postdoctoral Research Fellow in the [Erinin Research Group](https://erini
 
 During my PhD, I carried out experiments in a wind–wave flume to study the excitation, interaction, and evolution of non-linear wind waves in the presence of the mean water current; to develop a quasi-linear model and to gain deeper insights into the mechanisms behind wind–wave excitation and spatio-temporal growth.
 
+---
+
 ## Research Projects 
 
 
