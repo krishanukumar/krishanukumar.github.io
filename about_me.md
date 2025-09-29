@@ -14,6 +14,19 @@ In addition, I investigated the evolution and characteristics of different flow 
 Prior to my PhD, I worked on numerical simulations of centrifugal atomization to estimate powder size distribution, incorporating phase change into the model. The numerical results were validated against experiments conducted using high-speed imaging. This work was carried out under the supervision of [Prof. Sabita Sarkar](https://sites.google.com/smail.iitm.ac.in/sabita) at the **Department of Metallurgy and Materials Engineering, IIT Madras**.
 
 ---
+## Position
+- 2025-present: Postdoctoral research fellow with Prof. Martin Erinin, at the University of Michigan, USA
+- 2025~: Senior research fellow with Prof. Yaron Toledo, at Tel Aviv University, IL
+- 2020-2025: MSc and PhD with Prof. Lev Shemer at the wind wave research lab, Tel Aviv University, IL
+- 2019-2020: Research Project Associate with Prof. Sabita Sarkar, at IIT Madras, IN
+
+---
+## Education
+- 2021-2025: PhD in Mechanical Engineering, with Prof. Lev Shemer at Tel Aviv University, Israel
+- 2020-2021: MSc (converted to direct PhD track) in Mechanical Engineering, with Prof. Shemer and Prof. Barnea at Tel Aviv University, Israel
+- 2015-2019: BTech in Mechanical Engineering, SRMIST, TN, India
+  
+---
 ## Projects
 - [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
 - Turbulent characteristics, time scales, and correlation in a combined wave-current flow
