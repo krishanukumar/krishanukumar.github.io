@@ -35,3 +35,18 @@ title: Publications
 0. **K. Kumar**, P. Kumar, and S. K. Singh, _Study on hydrothermal characteristics of a circular microchannel with varying circular and rectangular groove_, Nano Sci. Technol. Int. J., 12, 65-80, 2021} 
 0. **K. Kumar**, P. Kumar, and S. K. Singh, _Passive control of boundary layer separation using single and multiple slats on the airfoil_, Int. J. Fluid Mech. Res., 48, 17-28, 2021
 {: reversed="reversed"}
+
+
+
+
+2022  
+
+1. **K. Kumar**, S. K. Singh, and L. Shemer, *Directional characteristics...*, Phys. Rev. Fluids, 7, 014801, 2022  
+
+<!-- keep numbering -->  
+
+2021  
+
+1. **K. Kumar**, A. Freshtman, D. Barnea, and L. Shemer, *Evolution of waves in a horizontal pipe...*, Phys. Fluids, 33, 062115, 2021  
+1. V.T. Mantripragada, **K. Kumar**,
+{: reversed="reversed"}
