@@ -38,15 +38,17 @@ title: Publications
 
 
 
+<h3>2022</h3>
+<ol reversed>
+  <li><b>K. Kumar</b>, S. K. Singh, and L. Shemer, <i>Directional characteristics of spatially evolving young waves under steady wind</i>, Phys. Rev. Fluids, 7, 014801, 2022</li>
+</ol>
 
-2022  
-
-1. **K. Kumar**, S. K. Singh, and L. Shemer, *Directional characteristics...*, Phys. Rev. Fluids, 7, 014801, 2022  
-
-<!-- keep numbering -->  
-
-2021  
-
-1. **K. Kumar**, A. Freshtman, D. Barnea, and L. Shemer, *Evolution of waves in a horizontal pipe...*, Phys. Fluids, 33, 062115, 2021  
-1. V.T. Mantripragada, **K. Kumar**,
-{: reversed="reversed"}
+<h3>2021</h3>
+<ol reversed start="0">
+  <li><b>K. Kumar</b>, A. Freshtman, D. Barnea, and L. Shemer, <i>Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas</i>, Phys. Fluids, 33, 062115, 2021</li>
+  <li>V.T. Mantripragada, <b>K. Kumar</b>, P. Kumar, and S. Sarkar, <i>Modeling of powder production during centrifugal atomization</i>, J. Sustain. Metall., 7, 620-629, 2021</li>
+  <li><b>K. Kumar</b> and P. Kumar, <i>Effect of groove depth on hydrothermal characteristics of rectangular microchannel heat sink</i>, Int. J. Thermal Sc., 161, 106730, 2021</li>
+  <li><b>K. Kumar</b>, P. Kumar, and S. K. Singh, <i>Aerodynamic performance optimization of multiple slat airfoil based on multi-objective genetic algorithm</i>, Arab. J. Sci. Eng., 46, 7411-7422, 2021</li>
+  <li><b>K. Kumar</b>, P. Kumar, and S. K. Singh, <i>Study on hydrothermal characteristics of a circular microchannel with varying circular and rectangular groove</i>, Nano Sci. Technol. Int. J., 12, 65-80, 2021</li>
+  <li><b>K. Kumar</b>, P. Kumar, and S. K. Singh, <i>Passive control of boundary layer separation using single and multiple slats on the airfoil</i>, Int. J. Fluid Mech. Res., 48, 17-28, 2021</li>
+</ol>
