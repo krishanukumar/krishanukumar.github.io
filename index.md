@@ -9,31 +9,26 @@ My research expertise lies in experimental fluid mechanics, with a particular em
 As a Postdoctoral Research Fellow in the [Erinin Research Group](https://erinin.engin.umich.edu/) at the **University of Michigan**, I study droplet generation and evolution resulting from wave-breaking events, both in the presence and absence of mean wind flow.
 
 ---
-
 ## Droplet residence time 
 
-Measuring droplet properties such as diameter, velocity, and ejection angle using a high-speed holographic imaging technique. 
+- Measuring droplet properties such as diameter, velocity, and ejection angle using a high-speed holographic imaging technique. 
 
 ---
-
 ## Effect of mean flow profile in-air and in-water on growth rate of young wind-waves
 
-Solving a set of coupled in air and in water Orr-Sommerfeld (OS) equation
+- Solving a set of coupled in air and in water Orr-Sommerfeld (OS) equation
 
 ---
-
 ## Wind-waves in the presence of mean water current
 
-Experiemtns in wind wave tank
+- Experiemtns in wind wave tank
 
 ---
-
 ## On the direct measurement of growth rates of fetch-limited wind-waves
 
-Using single point measurement and wave gauges
+- Using single point measurement and wave gauges
 
 ---
-
 ## Measurements of directional wave spectra in a wind-wave tank
 
-Development of single point otical sensor 
+- Development of single point otical sensor 
