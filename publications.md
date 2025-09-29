@@ -7,7 +7,8 @@ title: Publications
 
 ### Submitted
 
-1. asdasdsa
-2. 2sadasdsa
-3. sadsa dsad as
-4. adsadsdadadadad
+<ol reversed>
+  <li>This is the first item (gets the highest number).</li>
+  <li>This is the second item.</li>
+  <li>This is the third item (gets number 1).</li>
+</ol>
