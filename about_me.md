@@ -15,23 +15,16 @@ Prior to my PhD, I worked on numerical simulations of centrifugal atomization to
 
 ---
 ## Position
-- 2025-present: Postdoctoral research fellow with Prof. Martin Erinin, at the University of Michigan, USA
-- 2025~: Senior research fellow with Prof. Yaron Toledo, at Tel Aviv University, IL
-- 2020-2025: MSc and PhD with Prof. Lev Shemer at the wind wave research lab, Tel Aviv University, IL
-- 2019-2020: Research Project Associate with Prof. Sabita Sarkar, at IIT Madras, IN
+- 2025-present: **Postdoctoral research fellow** with Prof. Martin Erinin, at the University of Michigan, USA
+- 2025~: **Senior research fellow** with Prof. Yaron Toledo, at Tel Aviv University, IL
+- 2020-2025: **MSc and PhD** with Prof. Lev Shemer at the wind wave research lab, Tel Aviv University, IL
+- 2019-2020: **Research Project Associate** with Prof. Sabita Sarkar, at IIT Madras, IN
 
 ---
 ## Education
 - 2021-2025: PhD in Mechanical Engineering, with Prof. Lev Shemer at Tel Aviv University, Israel
 - 2020-2021: MSc (converted to direct PhD track) in Mechanical Engineering, with Prof. Shemer and Prof. Barnea at Tel Aviv University, Israel
 - 2015-2019: BTech in Mechanical Engineering, SRMIST, TN, India
-  
----
-## Projects
-- [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
-- Turbulent characteristics, time scales, and correlation in a combined wave-current flow
-- [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
-- Numerical analysis of variation of groove depth on hydrothermal characteristics of the circular microchannel with rectangular and circular grooves
 
 ---
 ## Awards
