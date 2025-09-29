@@ -21,6 +21,4 @@ title: Publications
   - **K. Kumar**, P. Kumar, and S. K. Singh, _Passive control of boundary layer separation using single and multiple slats on the airfoil_, Int. J. Fluid Mech. Res., 48, 17-28, 2021
 
 
-<ol reversed>
-  <li>**This is** the _first_ item (gets the highest number).</li>
-</ol>
+1. **asdsadadsa** _asdsad_ asd sadsada
