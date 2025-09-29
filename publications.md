@@ -2,12 +2,11 @@
 title: Publications
 ---
 
-
--- 
+---
 ## Publications
--
+- **K. Kumar** and L. Shemer, Shear flow instability analysis of young wind waves: coupled air-water Orr-Sommerfeld framework guided by experiment, under review.
 
--- 
+---
 ### Published
 
 <ol reversed>
@@ -21,4 +20,5 @@ title: Publications
   <li> **K. Kumar** and P. Kumar, *Effect of groove depth on hydrothermal characteristics of rectangular microchannel heat sink*, Int. J. Thermal Sc., 161, 106730, 2021 </li>
   <li> **K. Kumar**, P. Kumar, and S. K. Singh, *Aerodynamic performance optimization of multiple slat airfoil based on multi-objective genetic algorithm*, Arab. J. Sci. Eng., 46, 7411-7422, 2021 </li>
   <li> **K. Kumar**, P. Kumar, and S. K. Singh, _Study on hydrothermal characteristics of a circular microchannel with varying circular and rectangular groove_, Nano Sci. Technol. Int. J., 12, 65-80, 2021} </li>
+  <li> **K. Kumar**, P. Kumar, and S. K. Singh, _Passive control of boundary layer separation using single and multiple slats on the airfoil_, Int. J. Fluid Mech. Res., 48, 17-28, 2021 </li>
 </ol>
