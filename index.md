@@ -12,18 +12,28 @@ As a Postdoctoral Research Fellow in the [Erinin Research Group](https://erinin.
 
 ## Droplet residence time 
 
+Measuring droplet properties such as diameter, velocity, and ejection angle using a high-speed holographic imaging technique. 
+
 ---
 
 ## Effect of mean flow profile in-air and in-water on growth rate of young wind-waves
+
+Solving a set of coupled in air and in water Orr-Sommerfeld (OS) equation
 
 ---
 
 ## Wind-waves in the presence of mean water current
 
+Experiemtns in wind wave tank
+
 ---
 
 ## On the direct measurement of growth rates of fetch-limited wind-waves
 
+Using single point measurement and wave gauges
+
 ---
 
-## Measurements of directional wave spectra in a wind-wave tank,
+## Measurements of directional wave spectra in a wind-wave tank
+
+Development of single point otical sensor 
