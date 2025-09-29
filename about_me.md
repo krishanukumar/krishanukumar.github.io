@@ -16,7 +16,7 @@ Prior to my PhD, I worked on numerical simulations of centrifugal atomization to
 ---
 ## Position
 - 2025-present: **Postdoctoral research fellow** with Prof. Martin Erinin, at the University of Michigan, USA
-- 2025~: **Senior research fellow** with Prof. Yaron Toledo, at Tel Aviv University, IL
+- 2025-2025: **Senior research fellow** with Prof. Yaron Toledo, at Tel Aviv University, IL
 - 2020-2025: **MSc and PhD** with Prof. Lev Shemer at the wind wave research lab, Tel Aviv University, IL
 - 2019-2020: **Research Project Associate** with Prof. Sabita Sarkar, at IIT Madras, IN
 
