@@ -7,6 +7,19 @@
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
+
+      <!-- Custom CSS to make wrapper wider -->
+  <style>
+    .wrapper {
+        width: 95%;          /* almost full width */
+        max-width: 1600px;   /* prevent extreme stretching on very large screens */
+        min-width: 300px;    /* keeps layout readable on small screens */
+        margin: 0 auto;      /* center content */
+        padding: 0 20px;     /* optional spacing from edges */
+        box-sizing: border-box; /* ensures padding is included in width */
+    }
+  </style>
+    
     <!--[if lt IE 9]>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
