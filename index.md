@@ -31,4 +31,11 @@ As a Postdoctoral Research Fellow in the [Erinin Research Group](https://erinin.
 ---
 ## Measurements of directional wave spectra in a wind-wave tank
 
-- Development of single point otical sensor 
+- Development of single point otical sensor
+ 
+---
+## Other interesting side projects
+- [An analytical approximation of the wall-jet in a moving stream](projects/An analytical approximation of the wall-jet in a moving stream.pdf)
+- Turbulent characteristics, time scales, and correlation in a combined wave-current flow
+- [Gravity waves retrieval from sea surface elevation images using a convolutional neural network](projects/Gravity waves retrieval from sea surface elevation images using convolution neural network.pdf)
+- Numerical analysis of variation of groove depth on hydrothermal characteristics of the circular microchannel with rectangular and circular grooves
