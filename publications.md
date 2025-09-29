@@ -5,12 +5,13 @@ title: Publications
 ---
 ## Publications
 2025
-<br>
+
 - **K. Kumar** and L. Shemer, Shear flow instability analysis of young wind waves: coupled air-water Orr-Sommerfeld framework guided by experiment, under review.
 
 ---
 ### Published
 2024
+
 0. **K. Kumar** and L. Shemer, *Laboratory study of the effect of mean water current on the evolution of young wind waves*, J. Fluid Mech., 996, A21 2024
 0. **K. Kumar** and L. Shemer, *Spatial growth rates of young wind waves under steady wind forcing*, J. Fluid Mech., 996, A21 2024 
 
