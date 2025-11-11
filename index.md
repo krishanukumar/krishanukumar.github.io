@@ -38,7 +38,7 @@ The spatial evolution of various statistical parameters of fetch-limited waves g
 The present laboratory study accounts for multiple co-existing statistically stationary random frequency harmonics. Single-point synchronous measurements of the instantaneous surface elevation and of its along-wind slope component are performed by optical methods at numerous locations. Assuming exponential spatial growth, the phase shift between the surface elevation and surface slope at each frequency is related to the spatial growth rate of each harmonic.
 
 
-- **k. Kumar**, & L. Shemer (2024a). **[Spatial growth rates of young wind waves under steady wind forcing](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5)**, *J. Fluid Mech.*, 996, A21
+- **k. Kumar**, & L. Shemer (2024a). **[Spatial growth rates of young wind waves under steady wind forcing](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5)**, *J. Fluid Mech.*, 984, A22
 
 ---
 ### Measurements of directional wave spectra in a wind-wave tank
