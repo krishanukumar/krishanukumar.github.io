@@ -61,7 +61,7 @@ Different wavy regimes in stratified air–water pipe flow are determined for a 
 ---
 ### Droplet generation in rotating disk atomization
 
-Developed a mathematical model for slag droplet formation in the rotating disk atomization process. Film formation, disintegration, and drop formation mechanisms were modeled using a computational fluid dynamics-based approach. Droplet solidification process and phase transitions at a variable cooling rate for BF Slag were also analysed.
+Film formation, disintegration, and drop formation mechanisms in the rotating disk atomization process for slig were modeled using a computational fluid dynamics-based approach. Droplet solidification process and phase transitions at a variable cooling rate for BF Slag were also analysed.
 
 
 - V.T. Mantripragada, **k. Kumar**, P. Kumar, & S. Sarkar (2021). **[Modeling of Powder Production During Centrifugal Atomization](https://link.springer.com/article/10.1007/s40831-021-00370-2)**, *J. Sustain. Metall.*, 7, 620-629
