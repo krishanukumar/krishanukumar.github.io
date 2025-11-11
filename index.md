@@ -56,7 +56,7 @@ Synchronous single-point measurements of the instantaneous surface elevation and
 Different wavy regimes in stratified air–water pipe flow are determined for a wide range of gas and liquid flow rates in a 10m long horizontal pipe with a 1" diameter.  
 
 *Related publications*
-**k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)*, Phys. Fluids, 33, 062115
+**k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)**, *Phys. Fluids*, 33, 062115
 
 
 ---
