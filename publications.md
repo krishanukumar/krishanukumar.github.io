@@ -12,7 +12,7 @@ title: Publications
 ### Published
 <b>2024</b>
 <ol reversed start="11">
-  <li><b>K. Kumar</b> and L. Shemer, [Laboratory study of the effect of mean water current on the evolution of young wind waves](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-study-of-the-effect-of-mean-water-current-on-the-evolution-of-young-wind-waves/7CFB2EB2322643C965ADF236D6B2CCC6), _J. Fluid Mech._, 996, A21, 2024</li>
+  <li><b>K. Kumar</b> and L. Shemer, [Laboratory study of the effect of mean water current on the evolution of young wind waves](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-study-of-the-effect-of-mean-water-current-on-the-evolution-of-young-wind-waves/7CFB2EB2322643C965ADF236D6B2CCC6), J. Fluid Mech., 996, A21, 2024</li>
   <li><b>K. Kumar</b> and L. Shemer, <i>[Spatial growth rates of young wind waves under steady wind forcing](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5)</i>, _J. Fluid Mech._, 996, A21, 2024</li>
 </ol>
 
