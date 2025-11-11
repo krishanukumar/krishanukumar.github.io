@@ -59,7 +59,7 @@ Different wavy regimes in stratified air–water pipe flow are determined for a 
 - **k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)**, *Phys. Fluids*, 33, 062115
 
 ---
-### Evolution of waves in a horizontal circular pipe
+### Droplet generation in rotating disk atomization
 
 Developed a mathematical model for slag droplet formation in the rotating disk atomization process. Film formation, disintegration, and drop formation mechanisms were modeled using a computational fluid dynamics-based approach. Droplet solidification process and phase transitions at a variable cooling rate for BF Slag were also analysed.
 
