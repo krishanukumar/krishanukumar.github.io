@@ -14,19 +14,14 @@ title: Publications
 
 <b>2024</b>
 <ol reversed start="11">
-  <li><b>K. Kumar</b> and L. Shemer, [Laboratory study of the effect of mean water current on the evolution of young wind waves](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-study-of-the-effect-of-mean-water-current-on-the-evolution-of-young-wind-waves/7CFB2EB2322643C965ADF236D6B2CCC6), J. Fluid Mech., 996, A21, 2024</li>
-  </li>
-  <li><b>K. Kumar</b> and L. Shemer, 
-    <i><a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5">
-      Spatial growth rates of young wind waves under steady wind forcing
-    </a></i>, 
-    <em>J. Fluid Mech.</em>, <b>996</b>, A21 (2024)
-  </li>
+  <li><b>K. Kumar</b> and L. Shemer, <i><a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/laboratory-study-of-the-effect-of-mean-water-current-on-the-evolution-of-young-wind-waves/7CFB2EB2322643C965ADF236D6B2CCC6"> Laboratory study of the effect of mean water current on the evolution of young wind waves</a></i>, <em>J. Fluid Mech.</em>, 996, A21, (2024b)</li>
+  
+  <li><b>K. Kumar</b> and L. Shemer, <i><a href="https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5"> Spatial growth rates of young wind waves under steady wind forcing</a></i>, <em>J. Fluid Mech.</em>, 984, A22 (2024a)</li>
 </ol>
 
 <b>2023</b>
 <ol reversed start="9">
-  <li><b>K. Kumar</b>, M. Geva, and L. Shemer, <i>[Turbulent Boundary Layer Profiles in Airflow over Young Wind Waves in Co- and Counter-Wind Water Current](https://www.sciencedirect.com/science/article/abs/pii/S0142727X23001091)</i>, _Int. J. Heat Fluid Flow_, 103, 109210, 2023</li>
+  <li><b>K. Kumar</b>, M. Geva, and L. Shemer, <i><a href="https://www.sciencedirect.com/science/article/abs/pii/S0142727X23001091"> Turbulent Boundary Layer Profiles in Airflow over Young Wind Waves in Co- and Counter-Wind Water Current</a></i>, <em> Int. J. Heat Fluid Flow</em>, 103, 109210, (2023)</li>
   <li>S. K. Singh, <b>K. Kumar</b>, S. V. Singh, and P. Kumar, <i>Investigation of the effect of vibrating flange on flow characteristics of diffuser augmented wind turbine</i>, Int. J. Fluid Mech. Res., 50, 1-12, 2023</li>
 </ol>
 
