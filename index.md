@@ -39,7 +39,7 @@ The spatial evolution of various statistical parameters of fetch-limited waves g
 The present laboratory study accounts for multiple co-existing statistically stationary random frequency harmonics. Single-point synchronous measurements of the instantaneous surface elevation and of its along-wind slope component are performed by optical methods at numerous locations. Assuming exponential spatial growth, the phase shift between the surface elevation and surface slope at each frequency is related to the spatial growth rate of each harmonic. The accumulated data also enable quantitative analysis of the sheltering phenomenon. The essential difference between the spatial and the temporal wind-wave evolution cases is discussed.
 
 *Related publications*
-**k. Kumar**, & L. Shemer (2024a). **[Spatial growth rates of young wind waves under steady wind forcing](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5)**, *J. Fluid Mech.*, 996, A21
+- **k. Kumar**, & L. Shemer (2024a). **[Spatial growth rates of young wind waves under steady wind forcing](https://www.cambridge.org/core/journals/journal-of-fluid-mechanics/article/spatial-growth-rates-of-young-wind-waves-under-steady-wind-forcing/62EE0E500CE3B06045F3F4872D3913F5)**, *J. Fluid Mech.*, 996, A21
 
 ---
 ### Measurements of directional wave spectra in a wind-wave tank
@@ -47,7 +47,7 @@ The present laboratory study accounts for multiple co-existing statistically sta
 Synchronous single-point measurements of the instantaneous surface elevation and of two components of the surface slope in a wind-wave tank are carried out using a high-speed camera and a laser slope gauge.
 
 *Related publications*
-**k. Kumar**, S. K. Singh, & L. Shemer (2022). **[Directional characteristics of spatially evolving young waves under steady wind](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.014801)**, *Phys. Rev. Fluids*, 7, 014801
+- **k. Kumar**, S. K. Singh, & L. Shemer (2022). **[Directional characteristics of spatially evolving young waves under steady wind](https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.7.014801)**, *Phys. Rev. Fluids*, 7, 014801
 
 
 ---
@@ -56,15 +56,15 @@ Synchronous single-point measurements of the instantaneous surface elevation and
 Different wavy regimes in stratified air–water pipe flow are determined for a wide range of gas and liquid flow rates in a 10m long horizontal pipe with a 1" diameter.  
 
 *Related publications*
-**k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)**, *Phys. Fluids*, 33, 062115
+- **k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)**, *Phys. Fluids*, 33, 062115
 
 ---
 ### Evolution of waves in a horizontal circular pipe
 
-Different wavy regimes in stratified air–water pipe flow are determined for a wide range of gas and liquid flow rates in a 10m long horizontal pipe with a 1" diameter.  
+Developed a mathematical model for slag droplet formation in the rotating disk atomization process. Film formation, disintegration, and drop formation mechanisms were modeled using a computational fluid dynamics-based approach. Droplet solidification process and phase transitions at a variable cooling rate for BF Slag were also analysed.
 
 *Related publications*
-**k. Kumar**, A. Freshtman, D. Barnea, & L. Shemer (2021). **[Evolution of waves in a horizontal pipe propagating on a surface of a liquid film sheared by gas](https://pubs.aip.org/aip/pof/article-abstract/33/6/062115/1065564/Evolution-of-waves-in-a-horizontal-pipe?redirectedFrom=fulltext)**, *Phys. Fluids*, 33, 062115
+- V.T. Mantripragada, **k. Kumar**, P. Kumar, & S. Sarkar (2021). **[Modeling of Powder Production During Centrifugal Atomization](https://link.springer.com/article/10.1007/s40831-021-00370-2)**, *J. Sustain. Metall.*, 7, 620-629
 
 
 
